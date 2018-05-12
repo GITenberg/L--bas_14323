@@ -1,0 +1,52 @@
+_repo: L--bas_14323
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wallis, Keene
+    alias: Wallace, Keene
+    gutenberg_agent_id: '5476'
+    url: http://www.gutenberg.org/2009/agents/5476
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Jorris-Karl
+    - Huysmans, Jaris-Karl
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Joris Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: '"Le mal d''âmes ", comme disait Mallarmé, à la fin du siècle, et " le
+  bizarre attardement, au Paris actuel, de la démonialité ". Gilles de Rais mène le
+  bal par l''intermédiaire d''un historien, Durtal, assoiffé de surnaturel et dont
+  l''initiation sera faite par l''épouse hystérique et perverse d''un grand écrivain
+  catholique. Messes noires et invocations sataniques s''ensuivent, qu''organise un
+  prêtre excommunié, le chanoine Docre, qui s''est fait tracer sur la plante des pieds
+  l''image de la croix afin de pouvoir la piétiner constamment et dont les plus innocents
+  plaisirs sont de nourrir les souris blanches avec des hosties consacrées. Dans ce
+  monde du sabbat et du blasphème, la raison ne survit que réfugiée dans une tour
+  de Saint-Sulpice, où la femme du sonneur de cloches mitonne à l''intention des rares
+  rescapés de divins pot-au-feu.'
+gutenberg_issued: '2004-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'France -- History -- 15th century -- Fiction'
+- !lcsh 'Erotic stories'
+- !lcsh 'Satanism -- Fiction'
+- !lcsh 'Rais, Gilles de, 1404-1440 -- Fiction'
+title: Là-bas
+url: http://www.gutenberg.org/ebooks/14323
